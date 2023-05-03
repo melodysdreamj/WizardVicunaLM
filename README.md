@@ -6,10 +6,10 @@
 
 - 2023.4.20: [🤗LLAMA 7B 기반 KoVicuna 모델](https://huggingface.co/junelee/ko_vicuna_7b) 을 공개합니다.
 
----
+--- 
 # WizardVicunaLM
 I am a big fan of the ideas behind WizardLM and VicunaLM. I particularly like the idea of WizardLM handling the dataset itself more deeply and broadly, as well as VicunaLM overcoming the limitations of single-turn conversations by introducing multi-round conversations. As a result, I combined these two ideas to create WizardBikunaLM. This project is highly experimental and designed for proof of concept, not for actual usage.
-
+ 
 ## Benchmark
 
 The questions presented here are not from rigorous tests, but rather, I asked a few questions and requested GPT-4 to score them. The models compared were WizardVicunaLM, ChatGPT 3.5, VicunaLM, and WizardLM, in that order.
