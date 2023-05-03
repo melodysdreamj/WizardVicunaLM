@@ -4,7 +4,7 @@
 
 ## Update Logs
 
-- 2023.4.20: [🤗LLAMA 7B 기반 KoVicuna 모델](https://huggingface.co/junelee/ko_vicuna_7b) 을 공개합니다.
+- 2023.5.4: We are releasing the [🤗WizardVicuna 13B]() model.
 
 --- 
 # WizardVicunaLM
