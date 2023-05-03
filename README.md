@@ -1,4 +1,14 @@
-# WizardVicunaLM
+<p align="center" width="100%">
+<img src="assets/logo.png" alt="KoVicuna icon" style="width: 200px; height:200px; display: block; margin: auto; border-radius: 50%;">
+</p>
+
+## Update Logs
+
+- 2023.4.20: [🤗LLAMA 7B 기반 KoVicuna 모델](https://huggingface.co/junelee/ko_vicuna_7b) 을 공개합니다.
+
+---
+# WizardVicunaLM : LLM combining ideas from Wizard and Vicuna
+WizardBikunaLM is a novel language model that combines the strengths of WizardLM and BikunaLM. By integrating WizardLM's approach to handling datasets more deeply and broadly with BikunaLM's multi-round conversation framework, WizardBikunaLM aims to deliver more advanced and engaging conversational AI experiences. 
 
 # Background
 I am a big fan of the ideas behind WizardLM and BikunaLM. Specifically, I like the idea of WizardLM handling the dataset itself more deeply and broadly, as well as BikunaLM overcoming the limitations of single-turn conversations by introducing multi-round conversations. As a result, I combined these two ideas to create WizardBikunaLM.
