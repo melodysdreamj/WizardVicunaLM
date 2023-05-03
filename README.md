@@ -8,35 +8,31 @@
 
 ---
 # WizardVicunaLM
-WizardVicunaLM is a LLM that combines the strengths of WizardLM and VicunaLM. By integrating WizardLM's approach to handling datasets more deeply and broadly with VicunaLM's multi-round conversation framework, WizardVicunaLM aims to deliver more advanced and engaging conversational AI experiences. 
+I am a big fan of the ideas behind WizardLM and VicunaLM. I particularly like the idea of WizardLM handling the dataset itself more deeply and broadly, as well as VicunaLM overcoming the limitations of single-turn conversations by introducing multi-round conversations. As a result, I combined these two ideas to create WizardBikunaLM. This project is highly experimental and designed for proof of concept, not for actual usage.
 
-# Background
-
-I am a fan of the ideas behind WizardLM and VicunaLM. I particularly like the idea of WizardLM handling the dataset itself more deeply and broadly, as well as VicunaLM overcoming the limitations of single-turn conversations by introducing multi-round conversations. As a result, I combined these two ideas to create WizardBikunaLM. This project is highly experimental and designed for proof of concept, not for actual usage.
-
-# Benchmark
+## Benchmark
 
 The questions presented here are not from rigorous tests, but rather, I asked a few questions and requested GPT-4 to score them. The models compared were WizardVicunaLM, ChatGPT 3.5, VicunaLM, and WizardLM, in that order.
 
-# Principle
+## Principle
 
 We adopted the approach of WizardLM, which is to extend a single problem more in-depth. However, instead of using individual instructions, we expanded it using Vicuna's conversation format and applied Vicuna's fine-tuning techniques.
 
-# Detailed Method
+## Detailed Method
 
 First, we explore and expand various areas in the same topic using the 7K conversations created by WizardLM. However, we made it in a continuous conversation format instead of the instruction format. That is, it starts with WizardLM's instruction, and then expands into various areas in one conversation using ChatGPT 3.5.
 
 After that, we applied the following model using Vicuna's fine-tuning format.
 
-# Training Process
+## Training Process
 
 Trained with 8 A100 GPUs for 35 hours.
 
-# Weights
+## Weights
 
 According to the license, the delta weights have been made public here. You can obtain the original data by inverting the weights on Hugging Face.
 
-# Conclusion
+## Conclusion
 
 While it does show better performance in some benchmarks, it does not demonstrate a dramatic improvement.
 
