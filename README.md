@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-<img src="https://user-images.githubusercontent.com/21379657/235832523-0d5656e3-fbbc-48f1-becb-0c3fe22ade0b.png" alt="KoVicuna icon" style="width: 300px; height:300px; display: block; margin: auto; border-radius: 50%;">
+<img src="https://user-images.githubusercontent.com/21379657/235832523-0d5656e3-fbbc-48f1-becb-0c3fe22ade0b.png" alt="KoVicuna icon" style="width: 200px; height:200px; display: block; margin: auto; border-radius: 50%;">
 </p>
 
 ## Update Logs
@@ -13,7 +13,7 @@ I am a big fan of the ideas behind WizardLM and VicunaLM. I particularly like th
  
 ## Benchmark
 ### Approximately 7% performance improvement over VicunaLM
-![](https://user-images.githubusercontent.com/21379657/236084224-0e02f99e-3b00-412d-9114-ad45bc4b0aed.png)
+![](https://user-images.githubusercontent.com/21379657/236088663-3fa212c9-0112-4d44-9b01-f16ea093cb67.png)
 
 
 ### Detail 
