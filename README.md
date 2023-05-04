@@ -4,7 +4,8 @@
 
 ## Update Logs
 
-- 2023.5.4: We are releasing the [🤗WizardVicuna 13B]() model.
+- 2023.5.4: We are releasing the [🤗WizardVicuna 13B](https://huggingface.co/junelee/wizard-vicuna-13b) model.
+- 2023.5.3: We are releasing the [🤗WizardVicuna 70K conversation](https://huggingface.co/datasets/junelee/wizard_vicuna_70k) dataset.
 
 --- 
 # WizardVicunaLM
