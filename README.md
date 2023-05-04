@@ -9,8 +9,10 @@
 
 --- 
 # WizardVicunaLM
+### Wizard's dataset + ChatGPT's conversation extension + Vicuna's tuning method
 I am a big fan of the ideas behind WizardLM and VicunaLM. I particularly like the idea of WizardLM handling the dataset itself more deeply and broadly, as well as VicunaLM overcoming the limitations of single-turn conversations by introducing multi-round conversations. As a result, I combined these two ideas to create WizardVicunaLM. This project is highly experimental and designed for proof of concept, not for actual usage.
- 
+
+
 ## Benchmark
 ### Approximately 7% performance improvement over VicunaLM
 ![](https://user-images.githubusercontent.com/21379657/236088663-3fa212c9-0112-4d44-9b01-f16ea093cb67.png)
