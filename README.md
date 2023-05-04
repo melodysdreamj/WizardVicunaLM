@@ -47,6 +47,9 @@ The questions presented here are not from rigorous tests, but rather, I asked a 
 
 We adopted the approach of WizardLM, which is to extend a single problem more in-depth. However, instead of using individual instructions, we expanded it using Vicuna's conversation format and applied Vicuna's fine-tuning techniques.
 
+Turning a single command into a rich conversation is what we've done [here](https://sharegpt.com/c/6cmxqq0).
+
+
 ## Detailed Method
 
 First, we explore and expand various areas in the same topic using the 7K conversations created by WizardLM. However, we made it in a continuous conversation format instead of the instruction format. That is, it starts with WizardLM's instruction, and then expands into various areas in one conversation using ChatGPT 3.5.
