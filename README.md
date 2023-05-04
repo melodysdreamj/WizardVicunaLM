@@ -51,7 +51,7 @@ We adopted the approach of WizardLM, which is to extend a single problem more in
 
 Turning a single command into a rich conversation is what we've done [here](https://sharegpt.com/c/6cmxqq0).
 
-After creating the training data, I later trained it according to the Vicuna v1.1 training method.
+After creating the training data, I later trained it according to the Vicuna v1.1 [training method](https://github.com/lm-sys/FastChat/blob/main/scripts/train_vicuna_13b.sh).
 
 
 ## Detailed Method
