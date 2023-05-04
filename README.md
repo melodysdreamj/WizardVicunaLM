@@ -4,6 +4,9 @@
 
 ## Update Logs
 
+- 2023.5.5: TheBlock has created a [🤗wizard-vicuna-13B-HF](https://huggingface.co/TheBloke/wizard-vicuna-13B-HF) version for us!
+- 2023.5.5: TheBlock has created a [🤗wizard-vicuna-13B-GPTQ](https://huggingface.co/TheBloke/wizard-vicuna-13B-GPTQ) version for us!
+- 2023.5.5: TheBlock has created a [🤗WizardVicuna 13B GGML](https://huggingface.co/TheBloke/wizard-vicuna-13B-GGML) version for us!
 - 2023.5.4: We are releasing the [🤗WizardVicuna 13B](https://huggingface.co/junelee/wizard-vicuna-13b) model.
 - 2023.5.3: We are releasing the [🤗WizardVicuna 70K conversation](https://huggingface.co/datasets/junelee/wizard_vicuna_70k) dataset.
 
