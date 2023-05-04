@@ -61,10 +61,10 @@ Trained with 8 A100 GPUs for 35 hours.
 You can see the [dataset](https://huggingface.co/datasets/junelee/wizard_vicuna_70k) we used for training and the [13b model](https://huggingface.co/junelee/wizard-vicuna-13b) in the huggingface.
 
 ## Conclusion
-If we extend the dialog to gpt4 32K, we can expect a dramatic improvement, as we can generate 8x more, more accurate and richer dialogs.
+If we extend the conversation to gpt4 32K, we can expect a dramatic improvement, as we can generate 8x more, more accurate and richer conversations.
 
 ## License
-The model is licensed under the Lama model, and the dataset is licensed under the terms of OpenAI because it uses ChatGPT. Everything else is free.
+The model is licensed under the LLaMA model, and the dataset is licensed under the terms of OpenAI because it uses ChatGPT. Everything else is free.
 
 ## Author
 
