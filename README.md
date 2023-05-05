@@ -75,8 +75,8 @@ If we extend the conversation to gpt4 32K, we can expect a dramatic improvement,
 
 ## Reactions
 #### 1. Report of improved abilities in not only Korean, but also Chinese and Japanese.
-It's surprising that the share of other languages has not decreased even though it's tuned 100% for English; I'm curious about how this happened.
-[link1](https://huggingface.co/TheBloke/wizard-vicuna-13B-GPTQ/discussions/1) 
+It's surprising that the share of other languages has not decreased even though it's tuned 100% for English; I'm curious about how this happened.<br/>
+[link1](https://huggingface.co/TheBloke/wizard-vicuna-13B-GPTQ/discussions/1) <br/>
 [link2](https://arca.live/b/alpaca/75534266?mode=best&p=1)
 
 
