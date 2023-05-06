@@ -45,20 +45,6 @@ The questions presented here are not from rigorous tests, but rather, I asked a 
 |     | 91     | 88                | 82         | 80        |          |
 
 
-## Reactions
-#### 1. Report of improved abilities in not only Korean, but also Chinese and Japanese.
-Although it was tuned 100% for English, it's curious how the language abilities for other countries, such as Korean, Chinese, and Japanese, have been enhanced even though their share should have decreased.<br/>
-[link1](https://huggingface.co/TheBloke/wizard-vicuna-13B-GPTQ/discussions/1) <br/>
-[link2](https://arca.live/b/alpaca/75534266?mode=best&p=1)
-
-
-#### 2. Report of enhanced coding skills.
-[link](https://www.reddit.com/r/LocalLLaMA/comments/1386o9f/comment/jixdnoj/?utm_source=share&utm_medium=web2x&context=3)
-
-
-#### 3. Report of strengthened consistency during conversations.
-[link](https://www.reddit.com/r/LocalLLaMA/comments/1376oho/comment/jiwydq4/?utm_source=share&utm_medium=web2x&context=3)
-
 
 ## Principle
 
@@ -84,6 +70,35 @@ You can see the [dataset](https://huggingface.co/datasets/junelee/wizard_vicuna_
 
 ## Conclusion
 If we extend the conversation to gpt4 32K, we can expect a dramatic improvement, as we can generate 8x more, more accurate and richer conversations.
+
+
+## prompt
+This model was trained with Vicuna 1.1v, so it performs best when used as shown below.
+```
+USER: What is 4x8?
+ASSISTANT:
+```
+
+
+## Reactions
+
+
+#### Report of improved abilities in not only Korean, but also Chinese and Japanese.
+Although it was tuned 100% for English, it's curious how the language abilities for other countries, such as Korean, Chinese, and Japanese, have been enhanced even though their share should have decreased.<br/>
+[link1](https://huggingface.co/TheBloke/wizard-vicuna-13B-GPTQ/discussions/1) <br/>
+[link2](https://arca.live/b/alpaca/75534266?mode=best&p=1)
+
+
+#### Report of enhanced coding skills.
+[link](https://www.reddit.com/r/LocalLLaMA/comments/1386o9f/comment/jixdnoj/?utm_source=share&utm_medium=web2x&context=3)
+
+
+#### Report of strengthened consistency during conversations.
+[link](https://www.reddit.com/r/LocalLLaMA/comments/1376oho/comment/jiwydq4/?utm_source=share&utm_medium=web2x&context=3)
+
+#### Thanks to Prompt Engineering for the great video 🙏
+[![Alt text](https://img.youtube.com/vi/8BVMcuIGiAA/0.jpg)](https://www.youtube.com/watch?v=8BVMcuIGiAA)
+
 
 
 ## License
