@@ -82,6 +82,8 @@ ASSISTANT:
 
 ## Reactions
 
+#### Reporting that works with AutoGPT
+[link](https://huggingface.co/TheBloke/wizard-vicuna-13B-GPTQ/discussions/1#6457ce252ccdd06d06141f02)
 
 #### Report of improved abilities in not only Korean, but also Chinese and Japanese.
 Although it was tuned 100% for English, it's curious how the language abilities for other countries, such as Korean, Chinese, and Japanese, have been enhanced even though their share should have decreased.<br/>
