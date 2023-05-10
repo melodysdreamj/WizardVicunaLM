@@ -71,7 +71,7 @@ After that, we applied the following model using Vicuna's fine-tuning format.
 Trained with 8 A100 GPUs for 35 hours.
 
 ## Weights
-You can see the [dataset](https://huggingface.co/datasets/junelee/wizard_vicuna_70k) we used for training and the [13b model](https://huggingface.co/junelee/wizard-vicuna-13b) in the huggingface.
+You can see the [dataset](https://huggingface.co/datasets/junelee/wizard_vicuna_70k) we used for training and the [13b model](https://huggingface.co/junelee/wizard-vicuna-13b) in the Hugging Face.
 
 ## Conclusion
 If we extend the conversation to gpt4 32K, we can expect a dramatic improvement, as we can generate 8x more, more accurate and richer conversations.
@@ -87,6 +87,8 @@ ASSISTANT:
 
 ## Reactions
 
+#### Reporting that works with AutoGPT
+[link](https://huggingface.co/TheBloke/wizard-vicuna-13B-GPTQ/discussions/1#6457ce252ccdd06d06141f02)
 
 #### Report of improved abilities in not only Korean, but also Chinese and Japanese.
 Although it was tuned 100% for English, it's curious how the language abilities for other countries, such as Korean, Chinese, and Japanese, have been enhanced even though their share should have decreased.<br/>
