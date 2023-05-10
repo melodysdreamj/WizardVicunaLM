@@ -4,6 +4,8 @@
 
 ## Update Logs
 
+
+- 2023.5.10: gptordie has created a [Telegram bot](https://t.me/WizardVicuna13Bot) for us!😍
 - 2023.5.5: TheBloke has created a [🤗wizard-vicuna-13B-HF](https://huggingface.co/TheBloke/wizard-vicuna-13B-HF) version for us!
 - 2023.5.5: TheBloke has created a [🤗wizard-vicuna-13B-GPTQ](https://huggingface.co/TheBloke/wizard-vicuna-13B-GPTQ) version for us!
 - 2023.5.5: TheBloke has created a [🤗WizardVicuna 13B GGML](https://huggingface.co/TheBloke/wizard-vicuna-13B-GGML) version for us!
@@ -15,6 +17,8 @@
 ### Wizard's dataset + ChatGPT's conversation extension + Vicuna's tuning method
 I am a big fan of the ideas behind WizardLM and VicunaLM. I particularly like the idea of WizardLM handling the dataset itself more deeply and broadly, as well as VicunaLM overcoming the limitations of single-turn conversations by introducing multi-round conversations. As a result, I combined these two ideas to create WizardVicunaLM. This project is highly experimental and designed for proof of concept, not for actual usage.
 
+## Demo
+[Telegram bot](https://t.me/WizardVicuna13Bot) - This is a server created by someone, and I cannot predict when it will close. We will gratefully use it while it is being shared. If it comes to close, I will proceed to terminate the demo tag. Thank you.
 
 ## Benchmark
 ### Approximately 7% performance improvement over VicunaLM
@@ -22,6 +26,7 @@ I am a big fan of the ideas behind WizardLM and VicunaLM. I particularly like th
 
 
 ### Detail 
+gptordie
 
 The questions presented here are not from rigorous tests, but rather, I asked a few questions and requested GPT-4 to score them. The models compared were ChatGPT 3.5, WizardVicunaLM, VicunaLM, and WizardLM, in that order.
 
