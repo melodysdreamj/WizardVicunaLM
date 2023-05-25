@@ -4,7 +4,8 @@
 
 ## Update Logs
 
-
+- 2023.5.20: TheBloke has created a [🤗Wizard-Vicuna-7B-Uncensored-GGML](https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML) model for us!
+- 2023.5.20: TheBloke has created a [🤗Wizard-Vicuna-13B-Uncensored-GGML](https://huggingface.co/TheBloke/Wizard-Vicuna-13B-Uncensored-GGML) model for us!
 - 2023.5.18: ehartford has created a [🤗Wizard-Vicuna-7B-Uncensored](https://huggingface.co/ehartford/Wizard-Vicuna-7B-Uncensored) model for us!
 - 2023.5.13: ehartford has created a [🤗Wizard-Vicuna-13B-Uncensored](https://huggingface.co/ehartford/Wizard-Vicuna-13B-Uncensored) model for us!
 - 2023.5.10: gptordie has created a [Telegram bot](https://t.me/WizardVicuna13Bot) for us!😍
