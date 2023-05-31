@@ -4,6 +4,9 @@
 
 ## Update Logs
 
+- 2023.5.31: TheBloke has created a [🤗Wizard-Vicuna-30B-Uncensored-GGML](https://huggingface.co/TheBloke/Wizard-Vicuna-30B-Uncensored-GGML) model for us!
+- 2023.5.31: TheBloke has created a [🤗Wizard-Vicuna-30B-Uncensored-fp16](https://huggingface.co/TheBloke/Wizard-Vicuna-30B-Uncensored-fp16) model for us!
+- 2023.5.31: TheBloke has created a [🤗Wizard-Vicuna-30B-Uncensored-GPTQ](https://huggingface.co/TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ) model for us!
 - 2023.5.30: ehartford has created a [🤗Wizard-Vicuna-30B-Uncensored](https://huggingface.co/ehartford/Wizard-Vicuna-30B-Uncensored) model for us!
 - 2023.5.20: TheBloke has created a [🤗Wizard-Vicuna-7B-Uncensored-GGML](https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML) model for us!
 - 2023.5.20: TheBloke has created a [🤗Wizard-Vicuna-13B-Uncensored-GGML](https://huggingface.co/TheBloke/Wizard-Vicuna-13B-Uncensored-GGML) model for us!
